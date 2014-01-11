@@ -10,4 +10,4 @@ As you can see the file structure is as follows:
 
 
 Now, after the students pull the homework they should put their solution in:
- - [x] homework-X/student-solution   - by following this convention we minimize (almost eliminate) any source for merge conflicts when the students will have to pull the official-solutions.
+ - [x] homework-X/student-solution   - by following this convention we minimize (almost eliminate) any source for merge conflicts when the students will have to pull the official-solutions. AND most importantly, once we have settled on a convention, we can build an automated framework to download all student homework.
